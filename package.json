@@ -1,5 +1,5 @@
 {
-  "name": "KirBotz-Ganteng",
+  "name": "AriBotz-Ganteng",
   "version": "3.0.0",
   "description": "Jangan Ubah Nama Di Atas",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Akira",
+  "author": "Ari",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:KirBotz/Baileys",
